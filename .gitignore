@@ -1,0 +1,10 @@
+.gradle
+.idea/gradle.xml
+.idea/dbnavigator.xml
+.idea/misc.xml
+.idea/vcs.xml
+lib/dependencies/
+.DS_Store
+out
+
+
