@@ -4,6 +4,7 @@
 .idea/misc.xml
 .idea/vcs.xml
 .idea/Project.xml
+.idea/workspace.xml
 lib/dependencies/
 .DS_Store
 out
