@@ -3,6 +3,7 @@
 .idea/dbnavigator.xml
 .idea/misc.xml
 .idea/vcs.xml
+.idea/Project.xml
 lib/dependencies/
 .DS_Store
 out
