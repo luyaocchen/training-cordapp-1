@@ -8,6 +8,6 @@
 lib/dependencies/
 out
 build
-bootcamp-cordapp.iml
+*.iml
 
 

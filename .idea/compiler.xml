@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="cordapp-project_main" target="1.8" />
+      <module name="cordapp-project_test" target="1.8" />
       <module name="training-cordapp-1_main" target="1.8" />
       <module name="training-cordapp-1_test" target="1.8" />
     </bytecodeTargetLevel>
