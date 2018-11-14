@@ -1,9 +1,7 @@
 package java_training;
 
 import co.paralleluniverse.fibers.Suspendable;
-import net.corda.core.flows.FinalityFlow;
-import net.corda.core.flows.FlowException;
-import net.corda.core.flows.FlowLogic;
+import net.corda.core.flows.*;
 import net.corda.core.identity.Party;
 import net.corda.core.transactions.SignedTransaction;
 import net.corda.core.transactions.TransactionBuilder;
@@ -12,6 +10,8 @@ import org.jetbrains.annotations.Nullable;
 
 /* Our flow, automating the process of updating the ledger.
  * See src/main/java_examples/ for an example. */
+@InitiatingFlow
+@StartableByRPC
 public class TokenIssueFlow extends FlowLogic<SignedTransaction> {
     private final Party owner;
     private final int amount;
