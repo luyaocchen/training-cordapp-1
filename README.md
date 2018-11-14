@@ -1,10 +1,10 @@
 ![Corda](https://www.corda.net/wp-content/uploads/2016/11/fg005_corda_b.png)
 
 # Training CorDapp 1
-This project is the template we will use to define a complete CorDapp training. 
+This project is the template based CorDapp training. 
 Our CorDapp will allow a token to be issued onto the ledger.
 
-We'll take a test-driven approach. You'll know your CorDapp is working 
+We'll take a test-driven approach such that you'll know your CorDapp is working 
 when it passes both sets of tests defined in `src/test/java/java_training`.
 
 ## Links to useful resources
