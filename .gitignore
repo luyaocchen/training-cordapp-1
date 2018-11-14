@@ -1,13 +1,9 @@
 .gradle
-.idea/gradle.xml
-.idea/dbnavigator.xml
-.idea/misc.xml
-.idea/vcs.xml
-.idea/codeStyles/Project.xml
-.idea/workspace.xml
-lib/dependencies/
-out
+.idea/
 build
-*.iml
+lib/dependencies/
+.DS_Store
+out
+training-cordapp-1.iml
 
 
