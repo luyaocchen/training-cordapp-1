@@ -16,8 +16,7 @@ This project contains example state, contract and flow implementations:
 * 
 * 
 
-There are also several web resources that you will likely find useful for this
-bootcamp:
+There are also several web resources that you will likely find useful for this project:
 
 * Key Concepts docs (`docs.corda.net/key-concepts.html`)
 * API docs (`docs.corda.net/api-index.html`)
