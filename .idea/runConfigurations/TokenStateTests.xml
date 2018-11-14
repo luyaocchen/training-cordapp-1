@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="TokenStateTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-    <module name="training-cordapp-1_test" />
+    <module name="cordapp-project_test" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="java_training.*" />
