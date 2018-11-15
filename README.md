@@ -11,10 +11,10 @@ when it passes both sets of tests defined in `src/test/java/java_training`.
 
 This project contains example state, contract and flow implementations:
 
-* 
-* 
-* 
-* 
+* src/main/java/java_example/LandState
+* src/main/java/java_example/LandContract
+* src/main/java/java_example/LandSellFlowInitiator
+* src/main/java/java_example/LandSellFlowResponder
 
 There are also several web resources that you will likely find useful for this project:
 
