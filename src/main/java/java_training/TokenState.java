@@ -9,7 +9,7 @@ import org.jetbrains.annotations.NotNull;
 import java.util.List;
 
 /* Our state, defining a shared fact on the ledger.
- * See src/main/java/java_examples/ for an example. */
+ * See src/main/java/java_example/ for an example. */
 public class TokenState implements ContractState {
 
     private final Party issuer;

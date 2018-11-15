@@ -9,7 +9,7 @@ import net.corda.core.utilities.ProgressTracker;
 import org.jetbrains.annotations.Nullable;
 
 /* Our flow, automating the process of updating the ledger.
- * See src/main/java_examples/ for an example. */
+ * See src/main/java_example/ for an example. */
 @InitiatingFlow
 @StartableByRPC
 public class TokenIssueFlow extends FlowLogic<SignedTransaction> {

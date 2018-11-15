@@ -1,7 +1,7 @@
 package java_training;
 
 /* Our contract, governing how our state will evolve over time.
- * See src/main/java/java_examples/ for an example. */
+ * See src/main/java/java_example/ for an example. */
 
 import net.corda.core.contracts.CommandData;
 import net.corda.core.contracts.CommandWithParties;
